@@ -1,3 +1,4 @@
 # Groovey Music Player
  
-The Groovey music player was built using JavaScript, ReactJs, Redux, Tailwind and RapidAPI.
+The Groovey Music Player was built using JavaScript, React.js, Redux, Tailwind and RapidAPI.
+https://groovey-music-player.netlify.app/
